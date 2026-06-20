@@ -5,3 +5,6 @@
 [submodule "punycoder"]
 	path = punycoder
 	url = https://github.com/bart-turczynski/punycoder
+[submodule "rurl"]
+	path = rurl
+	url = https://github.com/bart-turczynski/rurl
