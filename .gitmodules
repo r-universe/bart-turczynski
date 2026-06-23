@@ -5,7 +5,6 @@
 [submodule "pslr"]
 	path = pslr
 	url = https://github.com/bart-turczynski/pslr
-	registered = false
 [submodule "punycoder"]
 	path = punycoder
 	url = https://github.com/bart-turczynski/punycoder
