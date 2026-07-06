@@ -3,6 +3,7 @@
     "package": "pslr",
     "url": "https://github.com/bart-turczynski/pslr",
     "via": ["rurl"],
+    "branch": "v1.0.2",
     "from": "rurl"
   },
   {
@@ -15,7 +16,8 @@
   {
     "package": "punycoder",
     "url": "https://github.com/bart-turczynski/punycoder",
-    "via": ["rurl"],
+    "via": ["rurl", "pslr"],
+    "branch": "v1.2.0",
     "from": "rurl"
   }
 ]
