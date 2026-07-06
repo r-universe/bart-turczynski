@@ -8,6 +8,13 @@
   {
     "package": "punycoder",
     "url": "https://github.com/bart-turczynski/punycoder",
+    "via": ["pslr"],
+    "branch": "v1.2.0",
+    "from": "pslr"
+  },
+  {
+    "package": "punycoder",
+    "url": "https://github.com/bart-turczynski/punycoder",
     "via": ["rurl"],
     "from": "rurl"
   }
