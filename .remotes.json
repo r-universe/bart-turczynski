@@ -9,12 +9,6 @@
   {
     "package": "punycoder",
     "url": "https://github.com/bart-turczynski/punycoder",
-    "via": ["pslr"],
-    "from": "pslr"
-  },
-  {
-    "package": "punycoder",
-    "url": "https://github.com/bart-turczynski/punycoder",
     "via": ["rurl", "pslr"],
     "from": "rurl"
   }
