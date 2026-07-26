@@ -15,8 +15,7 @@
   {
     "package": "punycoder",
     "url": "https://github.com/bart-turczynski/punycoder",
-    "via": ["rurl"],
-    "branch": "v1.2.0",
+    "via": ["rurl", "pslr"],
     "from": "rurl"
   }
 ]
