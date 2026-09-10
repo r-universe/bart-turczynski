@@ -8,3 +8,6 @@
 [submodule "punycoder"]
 	path = punycoder
 	url = https://github.com/cran/punycoder
+[submodule "rurl"]
+	path = rurl
+	url = https://gitlab.com/bart-turczynski/rurl
