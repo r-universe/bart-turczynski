@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "pslr"]
 	path = pslr
-	url = https://github.com/cran/pslr
+	url = https://gitlab.com/bart-turczynski/pslr
 [submodule "punycoder"]
 	path = punycoder
 	url = https://github.com/cran/punycoder
