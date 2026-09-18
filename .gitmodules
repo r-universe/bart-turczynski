@@ -7,7 +7,7 @@
 	url = https://gitlab.com/bart-turczynski/pslr
 [submodule "punycoder"]
 	path = punycoder
-	url = https://github.com/cran/punycoder
+	url = https://github.com/bart-turczynski/punycoder
 [submodule "rurl"]
 	path = rurl
 	url = https://gitlab.com/bart-turczynski/rurl
