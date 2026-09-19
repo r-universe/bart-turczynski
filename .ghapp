@@ -1,0 +1,10 @@
+{
+  "id": 163092781,
+  "created_at": "2026-09-19T21:03:04.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["bart-turczynski.r-universe.dev"]
+}
