@@ -27,3 +27,6 @@
 [submodule "sitemapr"]
 	path = sitemapr
 	url = https://gitlab.com/bart-turczynski/sitemapr
+[submodule "ssrfr"]
+	path = ssrfr
+	url = https://gitlab.com/bart-turczynski/ssrfr
